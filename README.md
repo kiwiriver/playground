@@ -1,5 +1,5 @@
 <H1 style="color: blue">
-playground on random topics, Meng Gao
+playground on random topics
 </H1>
 
 <H2 style="color: blue">
